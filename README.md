@@ -24,10 +24,9 @@ Vous pouvez executer l'application soit :
 
 1- En executant le fichier Jar ( salsalida.jar ) avec la commande suivante depuis le terminal:
 
-java - jae salsalida.jar 
+java - jar salsalida.jar 
 
-2- En executant la classe principale ( GestionDonnees.java ) depuis votre environnement de travail ( eclipse par exemple ), en clonant le projet.
-
+2- En executant la classe principale ( GestionDonnees.java ) depuis votre environnement de travail ( eclipse par exemple ), en clonant le projet.r
 # Fonctionnement
 L'utilisateur saisit les informations concernant l'évenement ( les horaires et la date ), les informations concernant les participants ( leurs adressses, ainsi que leur préference alimentaire afin de choisir le restaurant ) qui seront ajoutés à son profil.
 Celui-ci a le choix de chercher un Trio ( bar, restaurant et boite de nuit ) ou de chercher un autre  tel que : theâtre, cinéma, musée, hôtel, spectacle, karaoke, parc ...
