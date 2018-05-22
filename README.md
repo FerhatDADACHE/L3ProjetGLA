@@ -17,3 +17,16 @@ Le projet consiste à fournir une interface avec en:
 
 Entrée: une date, une liste de personnes ayant des contraintes d'adresses (là où ils habitent) et de préférences alimentaires
 Résultat: une liste chronologique de trois adresses (bar, resto, boîte)
+
+
+# Execution
+Vous pouvez executer l'application soit :
+1- En executant le fichier Jar ( salsalida.jar ) avec la commande suivante depuis le terminal:
+java - jae salsalida.jar 
+2- En executant la classe principale ( GestionDonnees.java ) depuis votre environnement de travail ( eclipse par exemple ), en clonant le projet.
+
+# Fonctionnement
+L'utilisateur saisit les informations concernant l'évenement ( les horaires et la date ), les informations concernant les participants ( leurs adressses, ainsi que leur préference alimentaire afin de choisir le restaurant ) qui seront ajoutés à son profil.
+Celui-ci a le choix de chercher un Trio ( bar, restaurant et boite de nuit ) ou de chercher un autre  tel que : theâtre, cinéma, musée, hôtel, spectacle, karaoke, parc ...
+
+L'application calcule le point de rassemenblement optimal pour tous les participants et renvoie les établissements corresponds qui sont autours, suivant les differentes contraintes.
