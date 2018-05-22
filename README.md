@@ -21,8 +21,11 @@ Résultat: une liste chronologique de trois adresses (bar, resto, boîte)
 
 # Execution
 Vous pouvez executer l'application soit :
+
 1- En executant le fichier Jar ( salsalida.jar ) avec la commande suivante depuis le terminal:
+
 java - jae salsalida.jar 
+
 2- En executant la classe principale ( GestionDonnees.java ) depuis votre environnement de travail ( eclipse par exemple ), en clonant le projet.
 
 # Fonctionnement
